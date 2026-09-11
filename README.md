@@ -22,3 +22,18 @@ Install required libraries:
 
 ```bash
 pip3 install -r requirements.txt
+## Demo / Output
+
+The project predicts a student's final marks using:
+
+- Study Hours
+- Attendance
+- Previous Marks
+
+### Sample Output
+
+```text
+Student Dataset:
+...
+
+Predicted final marks for new student: 77.03
